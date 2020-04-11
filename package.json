@@ -1,0 +1,15 @@
+{
+  "name": "job-scrapper",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node main.js",
+    "dev": "nodemon main.js"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "csv-writer": "^1.6.0",
+    "nodemon": "^2.0.3"
+  }
+}
